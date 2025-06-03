@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YJfPuJ8cs+LsJXjfRf2sq1umHrrk/s1xi20VT7B9u2w=",
+  "Source": "ODataService",
+  "BasePath": "_content/ODataService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
